@@ -122,6 +122,4 @@ mindmap
       Marketing Social
       Marketing Cultural
       Marketing Esportivo
----
-
 ```
